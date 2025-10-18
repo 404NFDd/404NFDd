@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">404NFDd</h1>
 <p align="center">
 <b>3년 차 백엔드 개발자</b><br>
@@ -51,6 +49,8 @@ PHP/Laravel로 백엔드 현업중입니다.
 ---
 
 <p align="center">
-<i>멈추지 않는 자만이 진보한다</i>
+  <i>멈추지 않는 자만이 진보한다</i><br>
+  <cite>– 모차르트</cite>
 </p>
+
 
