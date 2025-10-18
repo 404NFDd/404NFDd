@@ -43,9 +43,6 @@ PHP/Laravel로 백엔드 현업중입니다.
 ---
 
 ### GitHub 통계
-<div align="center">
-
-![404NFDd's GitHub stats](https://github-readme-stats.vercel.app/api?username=404NFDd&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404NFDd&layout=compact&theme=tokyonight&hide_border=true)
 
