@@ -29,7 +29,8 @@ PHP/Laravel로 백엔드 현업중입니다.
 - 오래된 배치 로직을 리팩터링하고 DB 쿼리를 다듬고 있습니다.  
 - Django + React로 개인 포트폴리오 사이트를 만드는 중입니다.  
   - Fuzzy C-Means와 SVM을 써서 숫자 인식 모델도 실험해 보고 있습니다.
-
+- 뉴스 피드를 볼 수 있는 페이지를 작성중입니다.
+  - 매일 아침 메일로 기사 요약과 동향을 알려주는 기능을 구현중입니다.  
 ---
 
 ### 프로젝트
@@ -37,6 +38,7 @@ PHP/Laravel로 백엔드 현업중입니다.
 |-----------|-------------|------------|
 | **MyPortfolio** | Django · React · PostgreSQL | 개인 포트폴리오 사이트 풀스택 구축 |
 | **MNIST FCM Classifier** | Python · libSVM | Fuzzy-c-means 기반 손글씨 숫자 인식 모델 구현 |
+| **firstproject** | Python · FastAPI · Mysql | 뉴스 피드를 볼 수 있는 페이지 및 메일로 기사요약 보내는 기능 구현 |
 
 ---
 
